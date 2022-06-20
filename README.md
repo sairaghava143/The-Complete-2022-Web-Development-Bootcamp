@@ -55,17 +55,17 @@ Content:
     ->A simple Todo-List🔥
     ->Skills: React, HTML, CSS, Bootstrap
 
-##### [⭐️Tindog Website](https://github.com/sairaghava143/The-Complete-2022-Web-Development-Bootcamp/tree/main/02.%20TinDog)
+##### [⭐️Tindog Website](https://sairaghava143.github.io/tindog/)
 
     ->A beautiful front-end similar to tinder🔥
     ->Skills: HTML, CSS, Bootstrap
 
-##### [⭐️Dicee Chalange](https://github.com/sairaghava143/The-Complete-2022-Web-Development-Bootcamp/tree/main/05.%20The%20Dicee%20Game)
+##### [⭐️Dicee Chalange]( https://sairaghava143.github.io/dice/)
 
     ->Alternate for a coin toss 🎲
     ->Skills: HTML, CSS, JavaScript
 
-##### [⭐️Drum-Kit](https://github.com/sairaghava143/The-Complete-2022-Web-Development-Bootcamp/tree/main/06.%20Drum%20Kit)
+##### [⭐️Drum-Kit](https://sairaghava143.github.io/drum/)
 
     ->A simple drum-kit 🥁
     ->Skills: HTML, CSS, JavaScript
@@ -90,12 +90,12 @@ Content:
     ->A To-do list Application 📋
     ->Skills: HTML, CSS, Bootstrap, JavaScript, Express, EJS, Mongoose-Atlis, Heroku
 
-##### [CSS-My-Site](https://github.com/sairaghava143/The-Complete-2022-Web-Development-Bootcamp/tree/main/01.%20HTML%20and%20CSS)
+##### [CSS-My-Site](https://sairaghava143.github.io/website/)
 
     ->About me! 👤
     ->Skills: HTML, CSS
 
-##### [HTML_PERSONAL_SITES](https://github.com/sairaghava143/The-Complete-2022-Web-Development-Bootcamp/tree/main/00_HTML%20PROJECT)
+##### [HTML_PERSONAL_SITES](https://sairaghava143.github.io/cv/)
 
     ->My resume 📃
     ->Skills: HTML, Basic CSS
