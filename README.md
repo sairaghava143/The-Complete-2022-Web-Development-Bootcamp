@@ -88,15 +88,13 @@ Content:
     ->My resume 📃
     ->Skills: HTML, Basic CSS
 
-# The Complete 2022 Web-Development Bootcamp
 The code contains all the required changes for each project to work. Some of the packages Angela used were updated (some of them became very different), so I had to look for workarounds. 
 
 ## Links to deployed apps
 
 * ToDo Application: https://tranquil-peak-57044.herokuapp.com/
 * Newsletter: https://limitless-headland-66461.herokuapp.com/
-* 
-# Complete_Web_Development_Bootcamp
+
 
 ## Notes
 https://docs.google.com/document/d/1-3_P9Lf5_WeAt2zLvywBO9ALvV8WT7u45iwXQ9nIfOA/edit?usp=sharing
